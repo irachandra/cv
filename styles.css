@@ -1,0 +1,53 @@
+ul {
+  list-style-type: none;
+  margin-top: 0;
+  padding: 0;
+  top: 0;
+  width: 100%;
+  position: fixed;
+  background-color: #bbcd73;
+  font-size: 30px;
+}
+
+li{
+  float: right;
+  padding: 10px;
+}
+
+body{
+  text-align: center;
+  font-family: 'Poppins', sans-serif;
+  line-height: 2;
+}
+
+h1{
+  color: #cdc9b0;
+  font-weight: bold;
+  line-height: 2;
+}
+
+h2{
+  color: #e1e6cf;
+  font-weight: lighter;
+}
+
+h3{
+  color: #cddaa6;
+}
+
+.intro{
+  margin-top: 10%;
+  margin-left: 70%;
+}
+
+.left-cloud{
+  position: absolute;
+  left: 100px;
+  bottom: 350px;
+}
+
+.right-cloud{
+  position: absolute;
+  top: 180px;
+  right: 100px;
+}
