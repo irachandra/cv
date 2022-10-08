@@ -230,7 +230,7 @@ main[role="main-home-wrapper"] article[role="pge-title-content"] p,main[role="ma
 
 footer[role="footer"]{ background-color:#FFF; padding-top:100px; padding-bottom:77px}
 
-footer[role="footer"] > h1 a{ margin:0 auto; display:block; max-width:66px;}
+footer[role="footer"] > h1 a{ padding-right:180px; margin:0 auto; display:block; max-width:66px;}
 
 footer[role="footer"] nav{ padding-top:37px; padding-bottom:43px}
 
@@ -324,7 +324,7 @@ article[role="pge-title-content"].contact-header p a:hover{color:#bbcd73; text-d
 
 .contat-from-wrapper textarea{ border-bottom:1px solid #bbbbbb; border-left:none; border-right:none; border-top:none; height:77px; margin-top:56px}
 
-.contat-from-wrapper input[type="submit"]{ display:block; border:none; outline:none; width:200px; line-height:60px; text-transform:uppercase; font-size:21px; color:#FFF; font-weight:800; letter-spacing:2px; background-color:#e84d49; margin:41px auto; margin-bottom:0}
+.contat-from-wrapper input[type="submit"]{ display:block; border:none; outline:none; width:200px; line-height:60px; text-transform:uppercase; font-size:21px; color:#FFF; font-weight:800; letter-spacing:2px; background-color:#bbcd73; margin:41px auto; margin-bottom:0}
 
 .contat-from-wrapper input[type="submit"]:hover{background-color:#bbcd73}
 
